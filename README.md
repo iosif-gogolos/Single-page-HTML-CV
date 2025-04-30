@@ -7,4 +7,4 @@ Check out the live version on GitHub Pages:
 
 👉 [View Live Site](https://iosif-gogolos.github.io/Single-page-HTML-CV/)
 
-![Preview](https://github.com/iosif-gogolos/Single-page-HTML-CV.git/preview.png)
+![Preview](https://github.com/iosif-gogolos/Single-page-HTML-CV/preview.png)
