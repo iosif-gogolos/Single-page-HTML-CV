@@ -1,0 +1,19 @@
+body{
+    color:#333;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    padding-right: 2px;
+    padding: 2em;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    color: cornflowerblue;
+    font-weight: normal;
+}
+h3{
+    color:rgb(29, 164, 29);
+    font-weight: normal;
+}
