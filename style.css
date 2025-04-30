@@ -17,3 +17,8 @@ h3{
     color:rgb(29, 164, 29);
     font-weight: normal;
 }
+hr{
+    border: 5px solid #060606;
+    border-top: 1px solid #000000;
+    margin: 2em 0;
+}
