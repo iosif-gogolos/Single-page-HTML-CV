@@ -22,3 +22,24 @@ hr{
     border-top: 1px solid #000000;
     margin: 2em 0;
 }
+
+.social-links{
+left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  
+}
+i{
+    color: #333;
+    font-size: 2em;
+    padding: 0.5em;
+    margin: 0.5em;
+    text-decoration: none;
+    transition: 0.2s;
+}
+i:hover {
+    color: #AEC6CF;
+    transition: 0.4s;
+    cursor: pointer;
+  }
